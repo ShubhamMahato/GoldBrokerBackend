@@ -1,0 +1,3 @@
+2021-06-26 19:04:35 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "CUSTOMER" not found; SQL statement:
+select customer0_.customer_id as customer1_0_, customer0_.customer_mobile_no as customer2_0_, customer0_.customer_name as customer3_0_, customer0_.customer_shop_name as customer4_0_ from customer customer0_ [42102-193]
